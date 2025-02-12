@@ -1,2 +1,4 @@
-# logica_programacao_loop
- Exercícios de lógica de programação utilizando loop
+# lógica de Programacao - Loop
+ Exercícios para treinar lógica de programação utilizando loop
+
+ Linguagem: Python
